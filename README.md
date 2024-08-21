@@ -17,7 +17,9 @@ Introducción
 Se crea unos programas con Java con ayuda de conocimientos adquiridos de C++, reemplazando las formas de lenguaje, aprendiendo las características básicas para la creación de una aplicación con interfaz gráfica en java
 Marco teórico
 Java es un lenguaje de programación de propósito general que destaca por su portabilidad, orientación a objetos e independencia de plataforma. La estructura básica de un programa Java incluye una clase con el método `main`. Las variables en Java son fuertemente tipadas, y el control de flujo se realiza mediante estructuras como `if`, `else`, `for`, `while` y `switch`. La programación orientada a objetos es fundamental en Java, utilizando clases y objetos. La gestión de excepciones se realiza con bloques `try`, `catch` y `finally`. Este resumen proporciona una visión general de los conceptos clave, estableciendo las bases para la práctica y el desarrollo en Java.
-Análisis de resultado 
+
+Análisis de resultado
+
 En el análisis de los resultados de las dos calculadoras en Java, la versión en consola implementó funciones básicas como suma, resta, multiplicación y división a través de comandos de texto, proporcionando una solución eficiente para usuarios con experiencia técnica. En contraste, la calculadora con interfaz gráfica incorporó elementos visuales y botones para realizar operaciones, lo que hizo la aplicación más accesible y fácil de usar para el público general. La interfaz gráfica mejoró la experiencia del usuario al ofrecer una interacción más intuitiva y atractiva, aunque su desarrollo implicó un mayor esfuerzo en términos de diseño y recursos
 
   Conclusiones:- Se creó un menú de forma que tiene 3 opciones para entrar a la calculadora de consola, la calculadora de interfaz y terminar la pestaña.
